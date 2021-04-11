@@ -8,7 +8,7 @@ Software Engineer offering 12+ years of experience in demanding technology envir
 
 [Email](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[LinkedIn](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[GitHub](https://github.com/bharanisandeep)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##**:dart: Career Objectives**
+** :dart: Career Objectives**
 
 Dedicated to optimization experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers well versed in software production, development life-cycle and release of software products and involved in DevOps Engineering activities.
 
@@ -153,10 +153,10 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **👩🏼‍🎓 Education:**
 
-- :pushpin:Master in Business Studies					MIT College – Pune University - 2014
-- :pushpin:PGDBM					 						          Synergy Institute of Management – Pune University - 2013
-- :pushpin:MSc in Computer Science						  Pune University - 2010
-- :pushpin:BSc in Computer Science						  Fergusson College – Pune University - 2007
+- 📌Master in Business Studies					MIT College – Pune University - 2014
+- 📌PGDBM					 						          Synergy Institute of Management – Pune University - 2013
+- 📌:MSc in Computer Science						  Pune University - 2010
+- 📌:BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
 **:trophy: Certification and Courses**
