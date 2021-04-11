@@ -160,7 +160,7 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 - 📌 BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
-:trophy: **Certification and Courses**
+**:trophy: Certification and Courses**
 Certification:-
 -	GCP Certified (Professional Cloud Architect)
 -	Oracle Database SQL (1Z0-071) and Oracle Database 12c Administrator Certified Associate (1Z0-062)
