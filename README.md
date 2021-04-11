@@ -27,7 +27,7 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 -	Monitor production, staging, test and development environments for a variety of applications in an agile and dynamic environment.
 -	Knowledge on Kubernetes and other container orchestration framework
 -	Knowledge of Big data Hadoop and Spark.
--	
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Professional Experience:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 -	Experience on monitoring tools Grafana and Geneos. Nodes setup for SSH configuration with Pragma Fortress.
 -	Working on several data migration projects using data ingestion with DataMesh
 -	Hands on experience on data refresh activity using Delphix engine.
--	
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Senior System Engineer (India-Pune)**	
