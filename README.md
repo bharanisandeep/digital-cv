@@ -184,4 +184,5 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 -	📎 Super Nova Team award – SunGard- 2012
 
 
-Place: Pune			                                                                                          **(Sandeep Bharani)**			
+
+		
