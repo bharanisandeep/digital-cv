@@ -8,11 +8,11 @@ Software Engineer offering 12+ years of experience in demanding technology envir
 
 [Email](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[LinkedIn](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[GitHub](https://github.com/bharanisandeep)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:dart: **Career Objectives**
+##:dart: **Career Objectives**
 
 Dedicated to optimization experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers well versed in software production, development life-cycle and release of software products and involved in DevOps Engineering activities.
 
-💻 Technical Responsibilities:**
+💻 **Technical Responsibilities:**
 
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
@@ -41,6 +41,7 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 **Technologies used :** Google Cloud platform, AWS, Docker, Python, Shell script, GIT, Docker, Jenkins, Ansible, Linux, Tomcat, Apache, JIRA, Confluence, Control-M, Datamesh, Spark, delphix, Pragma Fortress
 
 🗞️ **Responsibilities:**
+**🗞️ Responsibilities:**
 
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
@@ -69,14 +70,14 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 **Technologies used:**
 Shell Scripting, SQL, PL/SQL, Actuate, UNIX, ORACLE, SYBASE, Control M, GENEOS
 
-**:newspaper_roll: Responsibilities:**
+**🗞️ Responsibilities:**
 -	Worked in production Support Environment in report generation team of Corporate Banking & Securities Hedge Funds.
 -	Prepare solutions design for new Project to provide technical review & feedback on critical project input documentation. 
 -	Involved in analysis, evaluation, planning & implementation of Capital Market application like PRIME FINANCE. 
 -	Analyzed & mitigated risks; manage the network connectivity for Stock exchange
 -	Managing security using grants and revokes, Performing Backup and Recovery of Databases. 
 -	Monitored Server usage, error messages, and job scheduling on daily basis and Monitor crontab jobs daily and rectify issues.
--	Open Change Request tickets in the JIRA ticketing system, get approvals, present the change on Change Board Meetings and implement the changes in the production and DR servers   during maintenance slots. 
+-	Open Change Request tickets in the JIRA ticketing system, get approvals, present the change on Change Board Meetings and implement the changes in the production and DR         servers during maintenance slots. 
 -	Creation of change record for changes to be implemented in Production and perform the deployments in Production.
 -	Active participation in the crisis call and interact with the Business, Users to resolve the issue timely.
 -	Creating shell scripts for automating the manual health checks.
@@ -163,7 +164,7 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 
 
 **🏆 Certification and Courses**
-Certification:-
+**Certification:-**
 -	GCP Certified (Professional Cloud Architect)
 -	Oracle Database SQL (1Z0-071) and Oracle Database 12c Administrator Certified Associate (1Z0-062)
 -	ITIL foundation and ITIL Service Operation 
