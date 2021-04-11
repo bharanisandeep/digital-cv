@@ -40,7 +40,7 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 
 **Technologies used :** Google Cloud platform, AWS, Docker, Python, Shell script, GIT, Docker, Jenkins, Ansible, Linux, Tomcat, Apache, JIRA, Confluence, Control-M, Datamesh, Spark, delphix, Pragma Fortress
 
-## :newspaper_roll: **Responsibilities:**
+## 🗞️ **Responsibilities:**
 
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
@@ -91,7 +91,7 @@ Shell Scripting, SQL, PL/SQL, Actuate, UNIX, ORACLE, SYBASE, Control M, GENEOS
 **Technologies used:** 
 UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NAGIOS
 
-**:newspaper_roll: Responsibilities:**
+**🗞️ Responsibilities:**
 -	Perform Application support for BRASS Operations Team (Middle Office application).
 -	Understanding and analyzing the requirement specifications documents.
 -	Design, build and configure applications process to meet business requirements.
@@ -113,7 +113,8 @@ UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NA
 **Technologies used:**
 Oracle 9i, PL/SQL, UNIX, Clarity 8.1, Clarity 8.1.5, TOAD, SQL*PLUS
 
-**:newspaper_roll: Responsibilities:**
+**🗞️ Responsibilities:**
+
 -	Creating and defining project properties on Clarity Training system.
 -	Modifying the projects as per business requirements.
 -	Creating and managing the tasks for the projects and assigning resources to projects.
@@ -139,7 +140,8 @@ Oracle 9i, PL/SQL, UNIX, Clarity 8.1, Clarity 8.1.5, TOAD, SQL*PLUS
 **Technologies used:**
 UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load Runner
 
-**:newspaper_roll: Responsibilities:**
+**🗞️ Responsibilities:**
+
 -	Requirement gatherings from business, Test planning and Designing.
 -	Performing GAP Analysis between the Client's business requirements with regards to Solution Development and Testing/QA strategy.
 -	Resolution of defects around Ensemble CSM modules, critical issues and defects with quality and ensuring timely delivery and quality services for client satisfaction.
@@ -160,24 +162,24 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 - 📌 BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
-**:trophy: Certification and Courses**
+**🏆 Certification and Courses**
 Certification:-
 -	GCP Certified (Professional Cloud Architect)
 -	Oracle Database SQL (1Z0-071) and Oracle Database 12c Administrator Certified Associate (1Z0-062)
 -	ITIL foundation and ITIL Service Operation 
 -	NSE’s foundation certificate in financial market
 
-:pushpin: **Courses**
+📌 **Courses**
 -	Bigdata foundation – Cognitive Class
 -	VMware VSphere V5.5 (Vmware)
 -	RED Hat Linux System admin (From Red Hat) 
 -	Oracle 12c admin course (from Oracle University)
 
-:3rd_place_medal: **Rewards and Recognition**
--	:paperclip: Pat on the back award – HSBC 2020
--	:paperclip: Employee of the Month - Deutsche Bank – 2015 
--	:paperclip: Kudos - SunGard 2012 and 2013
--	:paperclip: Super Nova Team award – SunGard- 2012
+🥉 **Rewards and Recognition**
+-	📎 Pat on the back award – HSBC 2020
+-	📎 Employee of the Month - Deutsche Bank – 2015 
+-	📎 Kudos - SunGard 2012 and 2013
+-	📎 Super Nova Team award – SunGard- 2012
 
 
 Place: Pune			                                                                                          **(Sandeep Bharani)**			
