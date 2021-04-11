@@ -41,7 +41,6 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 **Technologies used :** Google Cloud platform, AWS, Docker, Python, Shell script, GIT, Docker, Jenkins, Ansible, Linux, Tomcat, Apache, JIRA, Confluence, Control-M, Datamesh, Spark, delphix, Pragma Fortress
 
 🗞️ **Responsibilities:**
-**🗞️ Responsibilities:**
 
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
@@ -70,7 +69,8 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 **Technologies used:**
 Shell Scripting, SQL, PL/SQL, Actuate, UNIX, ORACLE, SYBASE, Control M, GENEOS
 
-**🗞️ Responsibilities:**
+🗞️ **Responsibilities:**
+
 -	Worked in production Support Environment in report generation team of Corporate Banking & Securities Hedge Funds.
 -	Prepare solutions design for new Project to provide technical review & feedback on critical project input documentation. 
 -	Involved in analysis, evaluation, planning & implementation of Capital Market application like PRIME FINANCE. 
@@ -92,7 +92,8 @@ Shell Scripting, SQL, PL/SQL, Actuate, UNIX, ORACLE, SYBASE, Control M, GENEOS
 **Technologies used:** 
 UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NAGIOS
 
-**🗞️ Responsibilities:**
+🗞️ **Responsibilities:**
+
 -	Perform Application support for BRASS Operations Team (Middle Office application).
 -	Understanding and analyzing the requirement specifications documents.
 -	Design, build and configure applications process to meet business requirements.
@@ -114,7 +115,7 @@ UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NA
 **Technologies used:**
 Oracle 9i, PL/SQL, UNIX, Clarity 8.1, Clarity 8.1.5, TOAD, SQL*PLUS
 
-**🗞️ Responsibilities:**
+🗞️ **Responsibilities:**
 
 -	Creating and defining project properties on Clarity Training system.
 -	Modifying the projects as per business requirements.
@@ -141,7 +142,7 @@ Oracle 9i, PL/SQL, UNIX, Clarity 8.1, Clarity 8.1.5, TOAD, SQL*PLUS
 **Technologies used:**
 UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load Runner
 
-**🗞️ Responsibilities:**
+🗞️ **Responsibilities:**
 
 -	Requirement gatherings from business, Test planning and Designing.
 -	Performing GAP Analysis between the Client's business requirements with regards to Solution Development and Testing/QA strategy.
