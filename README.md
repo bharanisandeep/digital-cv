@@ -1,4 +1,4 @@
-:man: Sandeep Bharani – Devops Specialist
+# Sandeep Bharani – Devops Specialist
 
 :email: sandeepbharani@yahoo.com
 :telephone_receiver: +91 9561096026
@@ -8,7 +8,7 @@ Software Engineer offering 12+ years of experience in demanding technology envir
 
 [Email](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[LinkedIn](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[GitHub](https://github.com/bharanisandeep)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**:dart: Career Objectives**
+##**:dart: Career Objectives**
 
 Dedicated to optimization experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers well versed in software production, development life-cycle and release of software products and involved in DevOps Engineering activities.
 
