@@ -40,7 +40,8 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 
 **Technologies used :** Google Cloud platform, AWS, Docker, Python, Shell script, GIT, Docker, Jenkins, Ansible, Linux, Tomcat, Apache, JIRA, Confluence, Control-M, Datamesh, Spark, delphix, Pragma Fortress
 
-**:newspaper_roll: Responsibilities:**
+## :newspaper_roll: **Responsibilities:**
+
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
 -	Configure Scheduled builds, Nightly builds in CI tool Jenkins.
