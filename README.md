@@ -8,11 +8,11 @@ Software Engineer offering 12+ years of experience in demanding technology envir
 
 [Email](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[LinkedIn](https://www.linkedin.com/in/sandeep-bharani-8bb0419/)/[GitHub](https://github.com/bharanisandeep)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-** :dart: Career Objectives**
+:dart: **Career Objectives**
 
 Dedicated to optimization experienced DevOps Engineer understands the melding of operations and development to quickly deliver code to customers well versed in software production, development life-cycle and release of software products and involved in DevOps Engineering activities.
 
-**:computer: Technical Responsibilities:**
+💻 Technical Responsibilities:**
 
 
 -	Setting up the new build environment for various applications in Windows/UNIX/Linux environment. 
