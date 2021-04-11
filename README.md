@@ -153,10 +153,10 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **👩🏼‍🎓 Education:**
 
-- 📌Master in Business Studies					MIT College – Pune University - 2014
-- 📌PGDBM					 						          Synergy Institute of Management – Pune University - 2013
-- 📌:MSc in Computer Science						  Pune University - 2010
-- 📌:BSc in Computer Science						  Fergusson College – Pune University - 2007
+- 📌 Master in Business Studies					MIT College – Pune University - 2014
+- 📌 PGDBM					 						          Synergy Institute of Management – Pune University - 2013
+- 📌 MSc in Computer Science						  Pune University - 2010
+- 📌 BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
 **:trophy: Certification and Courses**
