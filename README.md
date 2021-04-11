@@ -99,7 +99,7 @@ UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NA
 -	Create automated processes to improve production quality.
 -	Processing batches for Order Management System (OMS) application to automate and schedule the jobs in cron such as file monitoring, report generation, sending and receiving     the files/reports between source and target servers.
 -	Felicitating end to end batch monitoring jobs and multiple servers.
--	Analyzing issues, performing root cause analysis, providing workarounds, documenting the same for future reference and resolving the issues as per the agreed service level       agreements (SLA).
+-	Analyzing issues, performing root cause analysis, providing workarounds, documenting the same for future reference and resolving the issues as per the agreed service level     agreements (SLA).
 -	Working in collaboration with several other teams like System admin and DEV, DBA and networking teams.
 -	Maintain and create automated processes to improve production quality.
 -	Assist with distributing regular code revision changes across 40+ Solaris/UNIX/Linux or servers and for more than 110 Clients
@@ -154,26 +154,26 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **👩🏼‍🎓 Education:**
 
-- 📌 Master in Business Studies					MIT College – Pune University - 2014
+- 📌 Master in Business Studies					  MIT College – Pune University - 2014
 - 📌 PGDBM					 						          Synergy Institute of Management – Pune University - 2013
 - 📌 MSc in Computer Science						  Pune University - 2010
 - 📌 BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
-** :trophy: Certification and Courses**
+:trophy: **Certification and Courses**
 Certification:-
 -	GCP Certified (Professional Cloud Architect)
 -	Oracle Database SQL (1Z0-071) and Oracle Database 12c Administrator Certified Associate (1Z0-062)
 -	ITIL foundation and ITIL Service Operation 
 -	NSE’s foundation certificate in financial market
 
-** :pushpin: Courses:**
+:pushpin: **Courses**
 -	Bigdata foundation – Cognitive Class
 -	VMware VSphere V5.5 (Vmware)
 -	RED Hat Linux System admin (From Red Hat) 
 -	Oracle 12c admin course (from Oracle University)
 
-** :3rd_place_medal: Rewards and Recognition**
+:3rd_place_medal: **Rewards and Recognition**
 -	:paperclip: Pat on the back award – HSBC 2020
 -	:paperclip: Employee of the Month - Deutsche Bank – 2015 
 -	:paperclip: Kudos - SunGard 2012 and 2013
