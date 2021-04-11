@@ -168,7 +168,7 @@ Certification:-
 -	RED Hat Linux System admin (From Red Hat) 
 -	Oracle 12c admin course (from Oracle University)
 
-**Rewards and Recognition**
+**:3rd_place_medal: Rewards and Recognition**
 -	:paperclip:Pat on the back award – HSBC 2020
 -	:paperclip:Employee of the Month - Deutsche Bank – 2015 
 -	:paperclip:Kudos - SunGard 2012 and 2013
