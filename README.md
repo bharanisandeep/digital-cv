@@ -159,24 +159,24 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 - 📌 BSc in Computer Science						  Fergusson College – Pune University - 2007
 
 
-**:trophy: Certification and Courses**
+** :trophy: Certification and Courses**
 Certification:-
 -	GCP Certified (Professional Cloud Architect)
 -	Oracle Database SQL (1Z0-071) and Oracle Database 12c Administrator Certified Associate (1Z0-062)
 -	ITIL foundation and ITIL Service Operation 
 -	NSE’s foundation certificate in financial market
 
-**:pushpin: Courses:**
+** :pushpin: Courses:**
 -	Bigdata foundation – Cognitive Class
 -	VMware VSphere V5.5 (Vmware)
 -	RED Hat Linux System admin (From Red Hat) 
 -	Oracle 12c admin course (from Oracle University)
 
-**:3rd_place_medal: Rewards and Recognition**
--	:paperclip:Pat on the back award – HSBC 2020
--	:paperclip:Employee of the Month - Deutsche Bank – 2015 
--	:paperclip:Kudos - SunGard 2012 and 2013
--	:paperclip:Super Nova Team award – SunGard- 2012
+** :3rd_place_medal: Rewards and Recognition**
+-	:paperclip: Pat on the back award – HSBC 2020
+-	:paperclip: Employee of the Month - Deutsche Bank – 2015 
+-	:paperclip: Kudos - SunGard 2012 and 2013
+-	:paperclip: Super Nova Team award – SunGard- 2012
 
 
 Place: Pune			                                                                                          **(Sandeep Bharani)**			
