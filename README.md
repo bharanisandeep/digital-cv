@@ -1,4 +1,4 @@
-## 	:man: Sandeep Bharani – Devops Specialist
+##:man: Sandeep Bharani – Devops Specialist
 :email: sandeepbharani@yahoo.com							                                                                        :telephone_receiver: +91 9561096026
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
