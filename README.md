@@ -25,8 +25,10 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 -	Monitor production, staging, test and development environments for a variety of applications in an agile and dynamic environment.
 -	Knowledge on Kubernetes and other container orchestration framework
 -	Knowledge of Big data Hadoop and Spark.
-
+-	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Professional Experience:**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Consultant Specialist (India-Pune)**	
 **[HSBC Software Developmen India PVT LTD](https://www.hsbc.com/)**						                                                                                
@@ -52,7 +54,8 @@ Dedicated to optimization experienced DevOps Engineer understands the melding of
 -	Experience on monitoring tools Grafana and Geneos. Nodes setup for SSH configuration with Pragma Fortress.
 -	Working on several data migration projects using data ingestion with DataMesh
 -	Hands on experience on data refresh activity using Delphix engine.
-
+-	
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Senior System Engineer (India-Pune)**	
 **[Deutsche Bank (DBOI Global Services Pvt. Ltd.)](https://www.db.com/india/)**
@@ -74,6 +77,8 @@ Shell Scripting, SQL, PL/SQL, Actuate, UNIX, ORACLE, SYBASE, Control M, GENEOS
 -	Creating shell scripts for automating the manual health checks.
 -	Wrote and executed test cases based on written design, as well as based on product knowledge that resulted in greatly improving the software.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Senior System Engineer (India-Pune)**
 **[FIS (Formerly known as SunGard)](https://www.fisglobal.com/en)**							                                                                           
 **Feb 2011 to Jan 2015**
@@ -94,6 +99,7 @@ UNIX System admin, Java, Shell script, Python, SYBASE ASE, Oracle, Core Java, NA
 -	Maintain and create automated processes to improve production quality.
 -	Assist with distributing regular code revision changes across 40+ Solaris/UNIX/Linux or servers and for more than 110 Clients
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **System Engineer (Project Admin) (India-Pune)**
 **[Emerson Export Engineering Center](https://www.emerson.com/en-in)**
@@ -118,6 +124,7 @@ Oracle 9i, PL/SQL, UNIX, Clarity 8.1, Clarity 8.1.5, TOAD, SQL*PLUS
 -	Closely working with various technical teams such as Development team, Applications Support and System Support for timely resolutions.
 -	Performing various tasks on Production database required by the business
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Business Analyst**
 **[Amdocs](https://www.amdocs.com/)**									                                                                                    
@@ -139,7 +146,7 @@ UNIX, SQL, Shell Scripting, Amdocs Ensemble Billing System, Quality Center, Load
 -	Gathering and implementing data changes in reference tables for upcoming software releases.     
 -	To run Usage and billing as per the clients requirement in UAT Environments for testing the specific Price Plans , SOCs, Features , Promotion, BOGOS, Discounts, BAN.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **👩🏼‍🎓 Education:**
 
 - :pushpin:Master in Business Studies					MIT College – Pune University - 2014
